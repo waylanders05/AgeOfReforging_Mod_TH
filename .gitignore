@@ -1,0 +1,9 @@
+# This repository is only for the public mod download.
+# Keep the local development workspace private/untracked.
+*
+
+!.gitattributes
+!.gitignore
+!README.md
+!dist/
+!dist/AoRThaiMod_v*.zip
